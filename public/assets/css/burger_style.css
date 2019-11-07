@@ -7,4 +7,14 @@ img {
 	margin-bottom: 0px;
 	padding-bottom: 0px;
 	padding-top: 0px;
+	background: rgba(204, 204, 204, 0.5);
+}
+@media (max-width: 768px){
+	.jumbotron{
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		background: rgba(204, 204, 204, 0.5);
+	}
 }
